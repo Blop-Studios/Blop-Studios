@@ -1,0 +1,31 @@
+<template>
+  <div>
+    <div class="coming-soon-container">
+      <div class="coming-soon">Something Huge is Coming Soon!</div>
+    </div>
+  </div>
+</template>
+
+<style>
+body {
+  margin: 0;
+  display: flex;
+  font-family: "Satoshi", sans-serif;
+  background-color: #000;
+}
+.coming-soon-container {
+  font-size: 1.5rem;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+}
+.coming-soon {
+  font-size: 9vw;
+  margin: 0;
+  padding: 0;
+  font-weight: 900;
+}
+</style>
