@@ -3,7 +3,7 @@ import ComingSoon from "../components/ComingSoon.vue";
 </script>
 
 <template>
-  <main>
-    <ComingSoon />
-  </main>
+	<main>
+		<ComingSoon />
+	</main>
 </template>
